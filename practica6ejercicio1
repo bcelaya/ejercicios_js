@@ -1,6 +1,0 @@
-function nodonuevo(){
-	var nodo = document.createElement("p");
-	var texto = document.createTextNode("Parrafo añadido");
-	nodo.appendChild(texto); 
-	document.getElementById("divisor").appendChild(nodo)
-}
